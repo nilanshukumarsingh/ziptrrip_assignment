@@ -1,12 +1,9 @@
 [
   {
-    "id": 1,
-    "title": "TODOOOO",
-    "completed": false
-  },
-  {
-    "id": 1782370537365,
-    "title": "Work on Todos",
-    "completed": false
+    "id": 1782372509212,
+    "title": "Finish React Project",
+    "description": "Complete the Todo App assignment with multi-page routing and styling.",
+    "done": false,
+    "createdAt": "2026-06-25T07:35:00.000Z"
   }
 ]
